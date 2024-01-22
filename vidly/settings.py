@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'ml7m4_=6zo8=#&_t1eea83*6soa7gg2y=mo0mhy#oe@(0(9^h_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 #ALLOWED_HOSTS = ['evening-waters-47857.herokuapp.com']
 ALLOWED_HOSTS = ['evening-waters-47857.herokuapp.com',
