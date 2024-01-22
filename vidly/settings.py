@@ -27,7 +27,7 @@ DEBUG = True
 
 #ALLOWED_HOSTS = ['evening-waters-47857.herokuapp.com']
 ALLOWED_HOSTS = ['evening-waters-47857.herokuapp.com',
-'127.0.0.1']
+'127.0.0.1', 'supermilo.pythonanywhere.com']
 
 
 # Application definition
